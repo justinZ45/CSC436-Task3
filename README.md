@@ -14,14 +14,14 @@ Scenario: You are working on an e-commerce website where users can purchase prod
 
 ## Screenshots
 
-###Product Filtering
+### Product Filtering
 <img width="85%" alt="Screen Shot 2023-02-14 at 6 12 50 PM" src="https://user-images.githubusercontent.com/92334995/218884128-202f565f-39af-4434-bb84-d021d1fbbbdd.png">
 
-###Product Reducing
+### Product Reducing
 <img width="85%" alt="Screen Shot 2023-02-14 at 6 12 19 PM" src="https://user-images.githubusercontent.com/92334995/218884041-915731fe-7ed7-43bf-8b10-0ede0484e804.png">
 
-###Product Sorting
+### Product Sorting
 <img width="85%" alt="Screen Shot 2023-02-14 at 6 13 07 PM" src="https://user-images.githubusercontent.com/92334995/218884165-b55ae3b2-920b-4945-b63b-980ab29b811c.png">
 
-###Product Mapping
+### Product Mapping
 <img width="85%" alt="Screen Shot 2023-02-14 at 6 13 17 PM" src="https://user-images.githubusercontent.com/92334995/218884192-2bfddd0f-55fa-4cd6-8713-0806402c5b40.png">
